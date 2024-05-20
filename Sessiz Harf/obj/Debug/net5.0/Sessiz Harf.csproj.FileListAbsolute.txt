@@ -1,0 +1,16 @@
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\05-Sessiz Harf\Sessiz Harf\bin\Debug\net5.0\Sessiz Harf.exe
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\05-Sessiz Harf\Sessiz Harf\bin\Debug\net5.0\Sessiz Harf.deps.json
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\05-Sessiz Harf\Sessiz Harf\bin\Debug\net5.0\Sessiz Harf.runtimeconfig.json
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\05-Sessiz Harf\Sessiz Harf\bin\Debug\net5.0\Sessiz Harf.runtimeconfig.dev.json
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\05-Sessiz Harf\Sessiz Harf\bin\Debug\net5.0\Sessiz Harf.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\05-Sessiz Harf\Sessiz Harf\bin\Debug\net5.0\ref\Sessiz Harf.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\05-Sessiz Harf\Sessiz Harf\bin\Debug\net5.0\Sessiz Harf.pdb
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\05-Sessiz Harf\Sessiz Harf\obj\Debug\net5.0\Sessiz Harf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\05-Sessiz Harf\Sessiz Harf\obj\Debug\net5.0\Sessiz Harf.AssemblyInfoInputs.cache
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\05-Sessiz Harf\Sessiz Harf\obj\Debug\net5.0\Sessiz Harf.AssemblyInfo.cs
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\05-Sessiz Harf\Sessiz Harf\obj\Debug\net5.0\Sessiz Harf.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\05-Sessiz Harf\Sessiz Harf\obj\Debug\net5.0\Sessiz Harf.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\05-Sessiz Harf\Sessiz Harf\obj\Debug\net5.0\ref\Sessiz Harf.dll
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\05-Sessiz Harf\Sessiz Harf\obj\Debug\net5.0\Sessiz Harf.pdb
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\05-Sessiz Harf\Sessiz Harf\obj\Debug\net5.0\Sessiz Harf.genruntimeconfig.cache
+C:\Users\Hossein\source\repos\امتحانات شرکت\متوسط\05-Sessiz Harf\Sessiz Harf\obj\Debug\net5.0\Sessiz Harf.csproj.AssemblyReference.cache
